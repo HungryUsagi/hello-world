@@ -1,4 +1,4 @@
 # hello-world
 gitfun
 
-heelo world!
+hello world!
